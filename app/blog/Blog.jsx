@@ -1,8 +1,7 @@
-"use-client"
 import GetAllPosts from "@/lib/GetAllPosts";
 import Link from "next/link";
 
-const Blogs = async() => {
+const Blog = async() => {
     const posts = await GetAllPosts();
     return (
         <>
@@ -21,4 +20,4 @@ const Blogs = async() => {
     );
 };
 
-export default Blogs;
+export default Blog;
