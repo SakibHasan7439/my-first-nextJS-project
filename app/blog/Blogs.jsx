@@ -1,3 +1,4 @@
+"use-client"
 import GetAllPosts from "@/lib/GetAllPosts";
 import Link from "next/link";
 
