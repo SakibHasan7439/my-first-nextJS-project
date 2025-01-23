@@ -1,4 +1,4 @@
-import Blog from "./Blog/components/Blog"
+import Blog from "./Blog/Blog"
 
 export default async function Home() {
 
