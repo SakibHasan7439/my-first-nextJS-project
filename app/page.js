@@ -1,5 +1,3 @@
-// import Blog from "@/Blog/components/Blog.jsx";
-
 import Blog from "./Blog/components/Blog";
 
 export default function Home() {
