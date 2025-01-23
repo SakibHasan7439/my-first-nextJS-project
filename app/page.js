@@ -1,4 +1,4 @@
-import Blog from "./Blog/Blog.jsx"
+import Blog from "./Blog/Blog"
 
 export default async function Home() {
 
