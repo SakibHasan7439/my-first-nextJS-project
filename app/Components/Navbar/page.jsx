@@ -7,7 +7,7 @@ const Navbar = () => {
                 <li><Link href={"/"}>Home</Link></li>
                 <li><Link href={"/profile"}>Profile</Link></li>
                 <li className="border-2 border-black rounded-md px-2 py-1">
-                    <Link href={""}>Signin</Link>
+                    <button>Signin</button>
                 </li>
             </ul>            
         </div>
